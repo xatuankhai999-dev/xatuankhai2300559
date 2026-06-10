@@ -1,6 +1,7 @@
 # xatuankhai2300559
 1. Cây Thư mục
 <img width="786" height="275" alt="image" src="https://github.com/user-attachments/assets/d522cdaf-4207-4eb6-9831-b0f5ed6497d6" />
+
 2. Kiểm Tra monitor
 <img width="1012" height="110" alt="image" src="https://github.com/user-attachments/assets/284026cb-18f0-4330-b9f7-390ab1dd30d0" />
 3. Backup
